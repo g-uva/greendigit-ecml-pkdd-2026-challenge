@@ -1,0 +1,21 @@
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Python venv created directly in the repo root.
+/bin/
+/include/
+/lib/
+/lib64/
+/pyvenv.cfg
+
+# Python venv created directly inside task-a/.
+/task-a/bin/
+/task-a/include/
+/task-a/lib/
+/task-a/lib64/
+/task-a/pyvenv.cfg

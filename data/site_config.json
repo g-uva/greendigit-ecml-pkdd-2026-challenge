@@ -1,0 +1,55 @@
+{
+  "sites": [
+    {
+      "site_id": "site_ad3433ffac",
+      "name": "Anonymized site site_ad3433ffac",
+      "location": "ANON",
+      "pue": 1.0,
+      "dispatch_latency": 0.0,
+      "capacity": {
+        "max_cores": 151872,
+        "max_memory_gb": 37968.0,
+        "max_concurrent_jobs": 2128
+      },
+      "metadata": {
+        "avg_energy_wh_per_15m": 236.71303159556572,
+        "avg_cfp_g_per_15m": 133.61909567016988,
+        "source": "data/raw_metrics/summary_sites_15m.csv"
+      }
+    },
+    {
+      "site_id": "site_e726c7cce5",
+      "name": "Anonymized site site_e726c7cce5",
+      "location": "ANON",
+      "pue": 1.0,
+      "dispatch_latency": 0.0,
+      "capacity": {
+        "max_cores": 111648,
+        "max_memory_gb": 27912.0,
+        "max_concurrent_jobs": 2171
+      },
+      "metadata": {
+        "avg_energy_wh_per_15m": 258.4903368200265,
+        "avg_cfp_g_per_15m": 93.98447119774849,
+        "source": "data/raw_metrics/summary_sites_15m.csv"
+      }
+    },
+    {
+      "site_id": "site_f5bcf8a88a",
+      "name": "Anonymized site site_f5bcf8a88a",
+      "location": "ANON",
+      "pue": 1.0,
+      "dispatch_latency": 0.0,
+      "capacity": {
+        "max_cores": 385920,
+        "max_memory_gb": 96480.0,
+        "max_concurrent_jobs": 3532
+      },
+      "metadata": {
+        "avg_energy_wh_per_15m": 235.64418770172847,
+        "avg_cfp_g_per_15m": 97.802826887706,
+        "source": "data/raw_metrics/summary_sites_15m.csv"
+      }
+    }
+  ]
+}
