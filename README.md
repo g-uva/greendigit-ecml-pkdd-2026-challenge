@@ -9,8 +9,27 @@ Shared data lives in [data/](data/). Task A and Task B should be installed in
 separate virtual environments because they expose separate Python packages and
 CLIs.
 
-Related repositories:
+Related sites:
+- [Challenge website](https://gd2.lab.uvalight.net/)
 - [GreenDIGIT-project](https://github.com/GreenDIGIT-project)
+
+## Registration
+
+1. Fill in the [Registration Form](https://forms.gle/iTw89KPXiELYNndn9).
+2. Register in the SoBigData platform. An email will be sent, and access will
+   be given on **May 1st, 2026**.
+3. Get access to the VRE for the materials and computation resources.
+4. Submit your abstract.
+5. Complete evaluation, approval, and camera-ready submission.
+
+| Event | Date |
+|---|---|
+| Challenge opens | 15th April 2026 |
+| Registration closes | 30th April 2026 |
+| Access to SoBigData VRE | 1st May 2026 |
+| Submission deadline | 1st June 2026 |
+| Publish results | 15th June 2026 |
+| Camera-ready deadline | 15th July 2026 |
 
 *This work is funded from the European Union’s Horizon Europe research and innovation programme through the [GreenDIGIT project](https://greendigit-project.eu/), under the grant agreement No. [101131207](https://cordis.europa.eu/project/id/101131207)*.
 
